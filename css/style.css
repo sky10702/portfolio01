@@ -409,6 +409,29 @@
     object-fit: cover;
 }
 
+.main_menu .swiper-wrapper {
+    transition-timing-function: linear;
+}
+
+.main_menu .main_menu_slide .itm .img_box {
+    margin-bottom: 2.4rem;
+}
+
+.main_menu .main_menu_slide .itm strong {
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1.6rem;
+}
+
+.main_menu .main_menu_slide .itm span {
+    display: block;
+    text-align: center;
+}
+
+
+
+
 .footer {
     padding: 80px 0;
     background: #333;
